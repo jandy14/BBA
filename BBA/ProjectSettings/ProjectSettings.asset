@@ -158,7 +158,8 @@ PlayerSettings:
   androidSupportedAspectRatio: 0
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: jandy_BBA
+    Android: com.Jandy.BBA
+    Standalone: Jandy_BBA
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
