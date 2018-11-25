@@ -95,6 +95,7 @@ public class ShootBullet : MonoBehaviour
 	{
 		if(collision.gameObject.tag == "Bullet")
 		{
+			Time.timeScale = 1f;
 			Destroy(gameObject);
 		}
 	}
